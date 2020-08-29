@@ -3,6 +3,6 @@ id: 5784
 title: Font Guide
 author: suntun
 layout: page
-permalink: /guides/font-guide
+permalink: /font-guide/
 ---
-Font Guides 
+Font Guides များတင်ပေးပါမည်မည်
