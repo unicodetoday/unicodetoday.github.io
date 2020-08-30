@@ -1,10 +1,20 @@
 ---
-id: 5784
-title: Guide
+title: Guides
 author: suntun
-layout: default
+layout: page
 permalink: /guides/
 ---
+<div>
+{% for page in site.pages %}
+  {% if page.categories contains 'guides' %}
+    <div class="item">
+      &#10070; {{page.description}}<a href="{{ page.url }}">
+       <!-- {{ page.title }}-->
+           ကြည့်ရှုရန်
+      </a>
 
-## [ဖောင့်ထည့်သွင်းနည်း ကြည့်ရန်](/guides/font-guide.md)
-Main Guide လမ်းညွှန် ခေါင်းစဉ်အောက်ရှိ ခေါင်းစဉ်ခွဲများမှ တဆင့် ကြည့်ရှုနိုင်ပါသည်။
+      <!--<p>{{page.description}}</p>-->
+    </div>
+  {% endif %}
+{% endfor %}
+</div>

@@ -1,8 +1,7 @@
 ---
-id: 4364
-title: Converter
+title: Converters
 author: suntun
-layout: default
+layout: page
 permalink: /converters/
 ---
 ## Converters Download ယူရန်

@@ -1,8 +1,7 @@
 ---
-id: 4358
-title: Keyboard
+title: Keyboards
 author: suntun
-layout: default
+layout: page
 permalink: /keyboards/
 ---
 ## Keyboards Download ယူရန်

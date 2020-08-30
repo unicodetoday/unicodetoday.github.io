@@ -1,7 +1,7 @@
 ---
-title: Font
+title: Fonts
 author: suntun
-layout: default
+layout: page
 permalink: /fonts/
 ---
 ## Pyidaungsu Font Download ယူရန်

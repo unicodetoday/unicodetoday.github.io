@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
-layout: default
+layout: page
 ---
 ## ယူနီကုဒ် ‌ဖောင့်စနစ်ထည့်သွင်းနည်း
 ယူနီကုဒ်စနစ်သို့ ပြောင်းလဲရန် အဆင့်(၃)ဆင့် လုပ်ရပါမယ်:

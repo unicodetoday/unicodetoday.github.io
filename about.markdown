@@ -1,5 +1,6 @@
 ---
 title: About
+author: suntun
 layout: page
 permalink: /about/
 ---

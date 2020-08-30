@@ -1,8 +1,7 @@
 ---
-id: 5653
 title: FAQs
 author: suntun
-layout: default
+layout: page
 permalink: /faqs/
 ---
 <details>
