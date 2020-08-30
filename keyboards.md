@@ -19,11 +19,11 @@ permalink: /keyboards/
 [1]: https://github.com/thantthet/keymagic/releases/download/windows-2.0.1.0/KeyMagic-v2.0.1.0.exe
 [2]: https://github.com/thantthet/keymagic/releases/download/macos-1.5.5/keymagic-1.5.5.pkg
 [3]: https://kb.keymagic.net/installation/
-[4]: http://www.unicodetoday.org/downloads/
-[5]: http://www.unicodetoday.org/downloads/Keyman-PyidaungsuMM-2.5.exe
-[6]: http://www.unicodetoday.org/downloads/keyman-13.0.100.dmg
-[7]: http://www.unicodetoday.org/downloads/PyidaungsuMM-2.5.kmp
-[8]: http://localhost/wordpress/wp-content/uploads/2019/02/win10-1.png
+[4]: /downloads/kblayout/Pyidaungsu_MM.km2
+[5]: /downloads/exes/Keyman-PyidaungsuMM-2.5.exe
+[6]: /downloads/kblayout/keyman-13.0.100.dmg
+[7]: /downloads/kblayout/PyidaungsuMM-2.5.kmp
+[8]: {% post_url 2018-09-03-windows-10-keyboard %}
 
 ### Keymagic
   1. [KeyMagic ထည့်သွင်းနည်း][keymagic]
@@ -34,8 +34,8 @@ permalink: /keyboards/
   1. [Keyman ထည့်သွင်းနည်းကြည့်ရန်][kminstall] 
   2. [လက်ကွက်ဇယားကြည့်ရန်][layout]
 
-  [keymagic]: http://example.com/
-  [usage]: http://example.com/
-  [typing]: http://example.com/
-  [kminstall]: http://localhost/wordpress/?p=5008
-  [layout]: http://localhost/wordpress/downloads/kblayout.htm
+  [keymagic]: {% post_url 2018-02-06-keymagic-install %}
+  [usage]: {% post_url 2019-03-05-using-keymagic %}
+  [typing]: {% post_url 2019-03-05-pyidaungsu-mm-typing %}
+  [kminstall]: {% post_url 2019-03-09-keyman-install %}
+  [layout]: /downloads/docs/kblayout.htm

@@ -10,9 +10,9 @@ layout: page
 2. ကီးဘုတ်လက်ကွက် ထည့်သွင်းရပါမယ် 
 3. ဖုန်းလိပ်စာ၊ Note စာမှတ်တမ်းများ စာအဟောင်းမှ အသစ်သို့ ပြန်ပြောင်းပေးရပါမယ်။ 
 
-ယူနီကုဒ်စနစ်ပြောင်းလဲပြီးပါက [Myanmar Wikipedia](href="https://my.wikipedia.org/wiki/ဗဟိုစာမျက်နှာ)သို့ဝင်ရောက်၍ အောင်မြင်မှုရမရကို ဝင်ရောက်စစ်ဆေးနိုင်ပါသည်။
+ယူနီကုဒ်စနစ်ပြောင်းလဲပြီးပါက [Myanmar Wikipedia](https://my.wikipedia.org/wiki/ဗဟိုစာမျက်နှာ)သို့ဝင်ရောက်၍ အောင်မြင်မှုရမရကို ဝင်ရောက်စစ်ဆေးနိုင်ပါသည်။
 
-[စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
+[စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်]({{site.url}}/downloads/docs/Unicode_Typing_Guide.jpg)
 
 <details>
 <summary markdown="span">**Samsung, Sony**</summary>
@@ -27,7 +27,7 @@ layout: page
 <details>
 <summary markdown="span">**Huawei, Honor**</summary> ( EMUI version 4.x အတွက် )
 <ul>
- <li> <a href="http://localhost/wordpress/downloads/Light.hwt">[Light.hwt file]</a> ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ</li>
+ <li> <a href="{{site.url}}/downloads/Light.hwt">[Light.hwt file]</a> ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ</li>
  <li> Theme app ကိုသွားပါ။ ထိုမှတဆင့် Me (သို့) Mine ကိုနှိပ်၍ Light theme ကိုရွေး‌ပေးပါ။ </li>
  <li> Setting >> System >> Language and Region တွင် Region ကို Myanmar (Burma) ပြောင်းလို့ရပါက ပြောင်းထားပါ</li>
  <li> Settings >> Language and input >> Language >> Add Language မှတဆင့် Burmese (Unicode) သို့မဟုတ် Burmese (Myanmar) ကိုပြောင်းပေးပါ</li>
@@ -131,6 +131,6 @@ layout: page
 <ol>
   <li>ဖောင့် menu ရှိ ဖောင့်ဖိုင်သီးသန့် အောက်တွင် OS နှင့် Office version ရွေးချယ်ကာ ဖောင့်ကို download ရယူ၍ထည့်သွင်းပါ</li>
   <li>ကီးဘုတ် menu ရှိ Keyman သို့မဟုတ် Keymagic ကိုရယူ၍ ထည့်သွင်းပေးပါ</li>
-  <li><a href="http://localhost/wordpress/?p=2405">Keyman ထည့်နည်း ဆက်လက်ကြည့်ရှုရန်</a></li>
+  <li><a href="{% post_url 2019-10-05-apple-keyman-install %}">Keyman ထည့်နည်း ဆက်လက်ကြည့်ရှုရန်</a></li>
 </ol>
 </details>
