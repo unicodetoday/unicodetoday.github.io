@@ -26,14 +26,14 @@ permalink: /converters/
 
 [1]: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/kanaung/KaNaungConverter_Window_Build200508.zip
 [2]: http://www.mediafire.com/file/lyj3ae3g4mm7uuw/PK_Converter+%28no+Java%29.zip
-[3]: http://unicodetoday.org/download/
-[4]: http://unicodetoday.org/download/5145/
-[5]: http://unicodetoday.org/download/5149/
-[6]: http://unicodetoday.org/download/4018/
-[7]: http://unicodetoday.org/download/4023/
-[8]: http://unicodetoday.org/download/4028/
-[9]: http://unicodetoday.org/download/4033/
-[10]: http://unicodetoday.wpengine.com/2017/03/17/converter/
+[3]: /downloads/converters/UnicodeConverterSetup.msi
+[4]: /downloads/converters/Excel_2010_Plugin_Converter.zip
+[5]: /downloads/converters/Word_2010_Plugin_Converter.zip
+[6]: /downloads/converters/Myanmar2CorrectionSetup.msi
+[7]: /downloads/converters/Myanmar_Unicode_Dictionary.exe
+[8]: /downloads/converters/MMFontConverter.exe
+[9]: /downloads/converters/MUAFC.exe
+[10]: {% post_url 2017-03-17-converter %}
 
 ----
 
@@ -42,4 +42,4 @@ permalink: /converters/
 2. Font Tagger (Safari Extension) [Download][12]
 
 [11]: https://itunes.apple.com/sg/app/rabbit-converter/id1219960370?mt=12
-[12]: http://unicodetoday.org/download/4038/
+[12]: /downloads/converters/FontTagger.safariextz
