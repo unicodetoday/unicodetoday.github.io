@@ -8,27 +8,12 @@ Myanmar Unicode တွင် keyboard လက်ကွက်များစွာ
 
 Pyidaungsu MM Keyboard ကိုနမူနာအဖြစ်ထည့်သွင်းရှင်းပြထားပါသည်။အခြားသောလက်ကွက်များကိုလည်းဤနည်းအတိုင်းထည့်သွင်းအသုံးပြုနိုင်ပါသည်။
 
-Pyidaungsu MM [Download](http://www.unicodetoday.org/downloads/Pyidaungsu%20MM.km2)
+Pyidaungsu MM [Download](/downloads/kblayout/Pyidaungsu_MM.km2)
 
-### **အဆင့် (၁)**
-
-Keymagic သို့အရင်သွားပါ။
-
-### အဆင့် (၂)
-
-Keymagic ထဲရောက်သွားပြီဆိုရင်အောက်ပါအတိုင်းမြင်ရပါလိမ့်မယ်။
-
-<img loading="lazy" class="aligncenter wp-image-1341 size-medium" src="http://localhost/wordpress/wp-content/uploads/2018/02/Untitled-1.png" alt="" width="300" height="181" /> 
-
-### အဆင့် (၃)
-
-ပြီးရင် Add button အား တစ်ချက်နိုပ်ပါ။
-
-### အဆင့် (၄)
-
-Windows Explorer ပေါ်လာပြီဆိုပါကဒေါင်းလုဒ်ရယူထားသော Keyboard လက်ကွက် ( Pyidaungsu MM.km2 ) ကိုမိမိဒေါင်းလုဒ်ချခဲ့သောနေရာတွင်ရှာဖွေရမည်။
-
-### အဆင့် ( ၅ )
-
-ဒေါင်းလုဒ်ရယူထားသော Keyboard လက်ကွက် ( Pyidaungsu MM.km2 ) ကိုတွေ့ပြီဆိုပါကအောက်ပါပုံအတိုင်းအဆိုပါ ( Pyidaungsu MM.km2 ) ကိုထောက်၍ တစ်ချက်နိုပ်ပြီး Open button ကိုတစ်ချက်နိုပ်ပါ။ဒီလိုဆိုအသုံးပြုနိုင်ပါပြီ။  
-<img loading="lazy" class="aligncenter wp-image-3514 size-medium" src="http://www.unicodetoday.org/wp-content/uploads/2018/02/Untitled-300x173.png" alt="" width="300" height="173" srcset="http://localhost/wordpress/wp-content/uploads/2018/02/Untitled-300x173.png 300w, http://localhost/wordpress/wp-content/uploads/2018/02/Untitled.png 705w" sizes="(max-width: 300px) 100vw, 300px" />
+1. Keymagic သို့အရင်သွားပါ။
+2. Keymagic ထဲရောက်သွားပြီဆိုရင်အောက်ပါအတိုင်းမြင်ရပါလိမ့်မယ်။
+    ![Keymagic Layout1](/images/kmagic-layout1.png)
+3. ပြီးရင် `Add button` အား တစ်ချက်နိုပ်ပါ။
+4. Windows Explorer ပေါ်လာပြီဆိုပါကဒေါင်းလုဒ်ရယူထားသော Keyboard လက်ကွက် `Pyidaungsu MM.km2` ကိုမိမိဒေါင်းလုဒ်ချခဲ့သောနေရာတွင်ရှာဖွေရမည်။
+5. ဒေါင်းလုဒ်ရယူထားသော Keyboard လက်ကွက် ( Pyidaungsu MM.km2 ) ကိုတွေ့ပြီဆိုပါကအောက်ပါပုံအတိုင်းအဆိုပါ ( Pyidaungsu MM.km2 ) ကိုထောက်၍ တစ်ချက်နိုပ်ပြီး Open button ကိုတစ်ချက်နိုပ်ပါ။ဒီလိုဆိုအသုံးပြုနိုင်ပါပြီ။  
+    ![Keymagic Layout2](/images/kmagic-layout2.png)
