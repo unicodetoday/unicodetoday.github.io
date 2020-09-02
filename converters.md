@@ -21,8 +21,10 @@ permalink: /converters/
 7. **Myanmar Unicode Dictionary** [Download][7]
   - အဘိဓာန်တစ်ခုဖြစ်ပေမယ့် converter စနစ်ကိုပါထည့်သွင်းပေးထားပါတယ်။ ဖိုင်နာမည်တွေကိုပါပြောင်းလဲပေးနိုင်ပါတယ်။
 8. **MMFontConverter** [Download][8]
-9. **MUAFontConverter** [Download][9]
-10. **Web Browser ကိုအသုံ:ပြုသော converter များ** [See More][10]
+<!-- 9. **MUAFontConverter** [Download][9] -->
+9. **Rabbit Converter (Mac Version)**  [Download][11]
+
+#### **Web Browser ကိုအသုံ:ပြုသော converter များ** [See More][10]
 
 [1]: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/kanaung/KaNaungConverter_Window_Build200508.zip
 [2]: http://www.mediafire.com/file/lyj3ae3g4mm7uuw/PK_Converter+%28no+Java%29.zip
@@ -30,16 +32,8 @@ permalink: /converters/
 [4]: /downloads/converters/Excel_2010_Plugin_Converter.zip
 [5]: /downloads/converters/Word_2010_Plugin_Converter.zip
 [6]: /downloads/converters/Myanmar2CorrectionSetup.msi
-[7]: /downloads/converters/Myanmar_Unicode_Dictionary.exe
-[8]: /downloads/converters/MMFontConverter.exe
+[7]: http://www.mediafire.com/file/v8r3d0dfu95pkbz/Myanmar_Unicode_Dictionary.exe/file
+[8]: http://www.mediafire.com/file/sf3y1uz9n2lhn7q/MMFontConverter.exe/file
 [9]: /downloads/converters/MUAFC.exe
 [10]: {% post_url 2017-03-17-converter %}
-
-----
-
-## MAC OS X အတွက်
-1. Rabbit Converter [Download][11]
-2. Font Tagger (Safari Extension) [Download][12]
-
 [11]: https://itunes.apple.com/sg/app/rabbit-converter/id1219960370?mt=12
-[12]: /downloads/converters/FontTagger.safariextz

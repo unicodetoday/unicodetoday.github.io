@@ -18,4 +18,4 @@ categories: Keyboard
 12.	ENG နဲ့ မြန်မာစာ လက်ကွက်နှစ်မျိုးတွေ့ပါလိမ့်မယ်
 13.	ENG နဲ့ မြန်မာစာ လက်ကွက်ပြောင်းချင်ရင်  `Win+Space` ကိုနှိပ်ပါ
 
-<iframe width="420" height="315" src="https://youtu.be/sPQ7WzOvjL0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sPQ7WzOvjL0" frameborder="0" allowfullscreen></iframe>

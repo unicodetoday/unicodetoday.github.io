@@ -1,6 +1,6 @@
 ---
 title: Windows 10, 8 မြန်မာယူနီကုဒ် သုံးစွဲနည်း စ/ဆုံး
-date: 2017-11-02T15:42:55+00:00
+date: 2019-11-02T15:42:55+00:00
 layout: post
 categories: 
   - Font
@@ -19,7 +19,7 @@ Windows မှာပါတဲ့ ကီးလက်ကွက်ကို ဖွ�
 
   1. Start menu > Setting > Time & Language ကိုရွေးပါ။
   2. ဘယ်ဘက်ကော်လံမှ Region & language ကိုရွေးပါ။
-  3. Add a language ကိုနှိပ်ပါ language အမည်ကို ရိုက်သွင်း၍ ရှာရန် &#8220;my&#8221; သို့မဟုတ် &#8220;bur&#8221; ဟုရိုက်ထည့်ကြည့်ပါက Burmese ကိုတွေ့မြင်ရမည်ဖြစ်ပါသည်။
+  3. Add a language ကိုနှိပ်ပါ language အမည်ကို ရိုက်သွင်း၍ ရှာရန် `my` သို့မဟုတ် `bur` ဟုရိုက်ထည့်ကြည့်ပါက Burmese ကိုတွေ့မြင်ရမည်ဖြစ်ပါသည်။
   4. Burmese ကိုရွေး၍ Next > Install ဆက်နှိပ်ပါ။  
     System task bar ပေါ်တွင် မြန်မာလက်ကွက်ရောက်ရှိလာမည်ဖြစ်ပါသည်။  
     Windows 10 update ရပြီးသောစက်များတွင် Keyboard ၂ခုပါဝင်လာပြီဖြစ်ပါတယ်။ သဝေထိုးအရင်ရိုက်နိုင်သော ( Myanmar (Visual Order) Keyboard ကို default ရရှိမည်ဖြစ်ပြီး Option > add keyboard ကတဆင့် Myanmar (Phonetic Order) Keyboard ကိုထပ်မံထည့်သွင်းနိုင်ပါသည်။
@@ -39,7 +39,7 @@ Windows မှာပါတဲ့ ကီးလက်ကွက်ကို ဖွ�
 မှတ်ချက်။ ။လက်ကွက်ပြောင်းရာမှာ Win Logo + Space ကီးမသုံးချင်ဘူး Ctrl + Shift ကီးပဲ သုံးချင်တယ်ဆိုရင်လည်း Setting ပြန်ပြောင်းပေးလို့ရပါတယ်။
 
 **စာရိုက်နည်း**  
-<a href="http://www.unicodetoday.org/2017/03/22/typing-unicode/" target="_blank" rel="noopener noreferrer">ဆက်လက်ကြည့်ရှု့ရန်</a>
+[ဆက်လက်ကြည့်ရှု့ရန်]({% post_url 2017-03-22-typing-unicode %})
 
 **Smart Keyboards**
 
@@ -51,7 +51,7 @@ Windows Vista ကနေ Windows 10 ထိ (32 bit 64 bit) ပါသုံးလ�
 
 **ဒီမှာယူပါ**
 
-<a href="http://www.unicodetoday.org" target="_blank" rel="noopener noreferrer">Download</a>
+[Download Keymagic](https://keymagic.net/downloads/)
 
 **ထည့်သွင်းနည်း**
 

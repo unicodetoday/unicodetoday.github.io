@@ -13,17 +13,19 @@ permalink: /keyboards/
 | :-------------------- |:-----------------| :-----------|
 | [Windows 7, 8, 10 အတွက် ][1] | [Keyman 13.0 (PyidaungsuMM-2.5)][5] | [ဖွင့်သုံးနည်း ကြည့်ရန်][8] |
 | [Mac OS X အတွက် ][2]  | [Keyman 13.0 for MacOS][6] |  |
-| [Linux Debian အတွက် ][3] | [PyidaungsuMM-2.5.kmp][7] |   |
-| [Pyidaungsu MM.km2 ][4] |  Mac အတွက် .kmp လိုပါသည် |   |
+| [Ubuntu အတွက် ][3] | [PyidaungsuMM-2.5.kmp][7] |   |
+| [Linux အတွက်][9]  | Mac အတွက် .kmp လိုပါသည် |  |
+| [Pyidaungsu MM.km2 ][4] |   |   |
 
 [1]: https://github.com/thantthet/keymagic/releases/download/windows-2.0.1.0/KeyMagic-v2.0.1.0.exe
 [2]: https://github.com/thantthet/keymagic/releases/download/macos-1.5.5/keymagic-1.5.5.pkg
-[3]: https://kb.keymagic.net/installation/
+[3]: https://keymagic.net/installation/ubuntu/
 [4]: /downloads/kblayout/Pyidaungsu_MM.km2
 [5]: /downloads/exes/Keyman-PyidaungsuMM-2.5.exe
 [6]: /downloads/kblayout/keyman-13.0.100.dmg
 [7]: /downloads/kblayout/PyidaungsuMM-2.5.kmp
 [8]: {% post_url 2018-09-03-windows-10-keyboard %}
+[9]: https://keymagic.net/installation/linux/
 
 ### Keymagic
   1. [KeyMagic ထည့်သွင်းနည်း][keymagic]

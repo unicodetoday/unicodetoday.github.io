@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MYANMAR UNICODE® MIGRATION
-email: suntun.nlp@gmail.com
+email: unicodetoday@gmail.com
 phone: 09 455 736 999
-author: Sun Tun
+author: Tech Support
 description: >- # this means to ignore newlines until "baseurl:"
   Unicode® is a registered trademark of Unicode, Inc. in the United States and 
   other countries. This site is not in any way associated with or endorsed or 
