@@ -12,7 +12,7 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 1. [Download All in One Setup][setup]  သို့မဟုတ်  [Download All-in-One Zip file][zip] 
   - [Download User Manual PDF file][pdf]
 
-[setup]: /downloads/exes/All-in-One-Setup-5.2.exe
+[setup]: https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe
 [zip]: /downloads/zips/All-in-One_Pyidaungsu_Font.zip
 [pdf]: /downloads/docs/Pyidaungsu_Font_User_Manual_05.pdf
 
