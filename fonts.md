@@ -7,7 +7,7 @@ permalink: /fonts/
 ## Pyidaungsu Font Download ယူရန်
 Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပါတယ်။ အထောက်အပံ့ပြုထားသော ဘာသာများမှာ- ဗမာ, သက္ကတ/ပါဠိ, မွန်, ရှမ်း, စကောကရင်, ပိုးကရင်(အနောက်ပိုင်း), ပိုးကရင် (အရှေ့ပိုင်း), ပအိုဝ့်ကရင်, ကယား, အရှိုချင်း, ခန္တီးရှမ်း, Aiton & Phake, တိုင်းလျမ်ခေါ်ရှမ်းနီ, ရွှေပလောင်, ပလေးပလောင်, ရူမာည်းတအောင်း, စသည်တို့ဖြစ်သည်။
 
-> ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်
+#### **ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်**
 
 1. [Download All in One Setup][setup]  သို့မဟုတ်  [Download All-in-One Zip file][zip] 
   - [Download User Manual PDF file][pdf]
@@ -20,13 +20,13 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 ### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 
-> Windows 7 ( Office ဗားရှင်းအားလုံး ) သို့မဟုတ် Windows 8, 10 ( Office 2010 )
+#### **Windows 7 ( Office ဗားရှင်းအားလုံး ) သို့မဟုတ် Windows 8, 10 ( Office 2010 )**
 
 1. [Download Pyidaungsu-1.8.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Regular.ttf)
 2. [Download Pyidaungsu-1.8.3_Bold.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Bold.ttf)
 3. [Download Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Numbers.ttf)
 
-> Windows 8, 10 ( Office 2013 အထက်နှင့် Office 365 )
+#### **Windows 8, 10 ( Office 2013 အထက်နှင့် Office 365 )**
 
 1. [Download Pyidaungsu-2.5.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf)
 2. [Download Pyidaungsu-2.5.3_Bold.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf)
