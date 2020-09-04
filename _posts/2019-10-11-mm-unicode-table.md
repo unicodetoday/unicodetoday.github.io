@@ -4,6 +4,35 @@ date: 2019-10-11T14:02:06+00:00
 layout: post
 categories: Mobile
 ---
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 100%; 
+} 
+table.devices td.android, tr.android{
+	background-color: #a9bfe6;
+}
+table.devices tr.ios{
+	background-color: #fbe5d5;
+}
+table.devices tr.windows{
+	background-color: #deebf6;
+}
+table.devices tr.mac{
+	background-color: #fff2cc;
+}
+table.devices tr.linux{
+	background-color: #ffd965;
+}
+table.devices tr.converter{
+	background-color: #eae7f2;
+}
+th,td {
+  border: 1px solid black;
+}
+</style>
+
 <table class="devices">
   <tr bgcolor="#d5dce4">
     <th colspan="2">
@@ -214,10 +243,6 @@ categories: Mobile
     
     <td colspan="4">
       ယုန် (Rabbit), ပြောင်း (Pyaung for iOS), အမ်ယူအက်ခ်စ် (MUX for Android), ယူနီကွန် (UniCon.mitcloud.com for web)
-    </td></table> 
-    
-    <pre class="wp-block-code"><code>&lt;style>
-</code></pre>
-    
-    <p>
-    </p>
+    </td>
+  </tr>
+</table> 

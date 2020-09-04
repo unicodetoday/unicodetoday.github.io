@@ -6,50 +6,33 @@ categories: Keyboard
 ---
 Windows 8,8.1တွေမှာမြန်မာယူနီကုဒ်စနစ်တွေဟာအလိုအလျောက်ပါလာပြီးသားဖြစ်ပါတယ်။
 
-<p style="text-align: justify;">
-  ယူနီကုဒ်ဖောင့်အနေနဲ့ Myanmar Text ဖောင့်ပါဝင်သလိုစာရိုက်ရန်အတွတ် Burmese Myanmar Keyboard ပါဝင်ပါတယ်။Burmese MyanmarKeyboardလက်ကွက်ကတော့Myanmar3လက်ကွက်အတိုင်းဖြစ်ပြီးစာရိုက်ရာတွင်သဝေထိုးကိုနောက်မှရိုက်ရခြင်း၊လုံးကြီးတင်ကိုအရင်တင်ရခြင်းတို့ဖြင့်ရိုက်နှိပ်ရပါမယ်။မိမိအနေနဲ့Windows8,8.1မှာမူရင်းပါလာတဲ့ယူနီကုဒ်ဖောင့်ရယ်keboardရယ်အသုံးပြုဖို့ဆိုလျှင်အောက်ပါနည်လမ်းအတိုင်းလုပ်ဆောင်ကြည့်ပါ။နည်လမ်းအနေနဲ့(၂)မျိုးရှိပါတယ်။ကြိုက်နှစ်သက်ရာနည်းလမ်းကိုအသုံးပြုနိုင်ပါတယ်။
-</p>
+ယူနီကုဒ်ဖောင့်အနေနဲ့ Myanmar Text ဖောင့်ပါဝင်သလိုစာရိုက်ရန်အတွတ် Burmese Myanmar Keyboard ပါဝင်ပါတယ်။ Burmese Myanmar Keyboard လက်ကွက်ကတော့ Myanmar3 လက်ကွက်အတိုင်း ဖြစ်ပြီးစာရိုက်ရာတွင် သဝေထိုးကို နောက်မှရိုက်ရခြင်း၊ လုံးကြီးတင်ကို အရင်တင်ရခြင်း တို့ဖြင့် ရိုက်နှိပ်ရပါမယ်။ မိမိအနေနဲ့ Windows8,8.1 မှာမူရင်းပါလာတဲ့ ယူနီကုဒ်ဖောင့်ရယ် keboard ရယ်အသုံးပြုဖို့ဆိုလျှင် အောက်ပါနည်လမ်းအတိုင်း လုပ်ဆောင်ကြည့်ပါ။ နည်လမ်းအနေနဲ့ (၂)မျိုးရှိပါတယ်။ ကြိုက်နှစ်သက်ရာ နည်းလမ်းကို အသုံးပြုနိုင်ပါတယ်။
 
-<h2 style="text-align: justify;">
-  <strong>နည်းလမ်း(၁)</strong>
-</h2>
+### နည်းလမ်း(၁)
 
-−ဦးစွာ **Control Panel** ထဲဝင်ပါ။
+- ဦးစွာ **Control Panel** ထဲဝင်ပါ။
+- **Clock,Language and Region** ခေါင်းစဥ်အောက်ရှိ **Change input methods** ထဲဝင်ပါ။
 
-−**Clock,Language and Region** ခေါင်းစဥ်အောက်ရှိ **Change input methods** ထဲဝင်ပါ။
+  ![win8-1](/images/w81.png)
 
-<img loading="lazy" class="size-full wp-image-1595 aligncenter" src="http://localhost/wordpress/wp-content/uploads/2017/02/w81.png" alt="" width="296" height="88" /> 
+- Add a Language ကိုနှိပ်ပါ။ ပြီးလျှင် `search language` တွင် `burmese` ဟုရိုက်ထည့်လိုက်ပါ။ `မြန်မာစာ` ဆိုပြီးလေးထောင့်ကွက် နဲ့ပေါ်လာပါမည်။ ထို `မြန်မာစာ`လေးထောင့်ကွက် ကို ကလစ် တစ်ချက်နှိပ်ပြီး Add ကိုနှိပ်ပါ။
 
-<p style="text-align: justify;">
-  −<strong>Add a Language</strong> ကိုနှိပ်ပါ။ပြီးလျှင် <strong>search language</strong> တွင် <strong>burmese</strong> ဟုရိုက်ထည့်လိုက်ပါ။<em><strong>မြန်မာစာ</strong></em> ဆိုပြီးလေးထောင့်ကွက် နဲ့ပေါ်လာပါမည်။ထို<em><strong> မြန်မာစာ </strong></em>လေးထောင့်ကွက်ကိုကလစ်တစ်ချက်နှိပ်ပြီး<strong> Add</strong> ကိုနှိပ်ပါ။
-</p>
+  ![win8-2](/images/w82.png)
 
-<img loading="lazy" class="size-full wp-image-1596 aligncenter" src="http://localhost/wordpress/wp-content/uploads/2017/02/w82.png" alt="" width="467" height="529" srcset="http://localhost/wordpress/wp-content/uploads/2017/02/w82.png 467w, http://localhost/wordpress/wp-content/uploads/2017/02/w82-265x300.png 265w" sizes="(max-width: 467px) 100vw, 467px" /> 
+- Windows taskbar တွင် ENG စာလုံးပေါ်သို့ ထောက်၍ ကလစ်တစ်ချက်နှိပ်ပါ။ ပုံပါအတိုင်း မြန်မာစာ လက်ကွက် နဲ့ အင်္ဂလိပ်စာ         လက်ကွက် နှစ်မျိုး တွေ့မြင်ရမည် ဖြစ်သည်။ မိမိအနေဖြင့် လက်ကွက်နှစ်ခုကို အပြောင်းအလဲ စာရိုက်ရန်အတွတ် Windows key ကိုဖိထား ပြီး spacebar တစ်ချက်နှိပ်ပေးပါ။ (သို့မဟုတ်) Alt key ကိုဖိထားပြီး Shift key တစ်ချက်နှိပ်ပေးပါ။ ကိုယ်က အင်္ဂလိပ်လက်ကွက် သုံးနေ ရင် Windows taskbar တွင် ENG စာလုံးပေါ်နေမှာ ဖြစ်ပြီး မြန်မာလက်ကွက် သုံးနေရင် Windows taskbar တွင် မြန် စာလုံးပေါ်နေမှာ ဖြစ်ပါတယ်။
 
-<p style="text-align: justify;">
-  −Windows taskbar တွင် ENG စာလုံးပေါ်သို့ထောက်၍ကလစ်တစ်ချက်နှိပ်ပါ။ပုံပါအတိုင်း မြန်မာစာလက်ကွက်နဲ့အင်္ဂလိပ်စာ         လက်ကွက်နှစ်မျိုးတွေ့မြင်ရမည်ဖြစ်သည်။ မိမိအနေဖြင့်လက်ကွက်နှစ်ခုကိုအပြောင်းအလဲစာရိုက်ရန်အတွတ် Windows keyကိုဖိထား ပြီး spacebar တစ်ချက်နှိပ်ပေးပါ။(သို့မဟုတ်) Alt key ကိုဖိထားပြီး Shift key တစ်ချက်နှိပ်ပေးပါ။ကိုယ်ကအင်္ဂလိပ်လက်ကွက်သုံးနေ ရင် Windows taskbar တွင် <strong>ENG</strong> စာလုံးပေါ်နေမှာဖြစ်ပြီးမြန်မာလက်ကွက်သုံးနေရင် Windows taskbar တွင် <strong>မြန် </strong>စာလုံးပေါ်နေမှာ ဖြစ်ပါတယ်။
-</p>
+  ![win8-3](/images/w83.png)
 
-<img loading="lazy" class="size-full wp-image-1597 aligncenter" src="http://localhost/wordpress/wp-content/uploads/2017/02/w83.png" alt="" width="298" height="245" /> 
+### နည်းလမ်း(၂)
 
-## **နည်းလမ်း(၂)**
+ဦးစွာ `Windows key` နဲ့ `S key` ကိုတွဲ၍နှိပ်ပါ။ Search windows ဆိုတဲ့အကွက်ကလေးပေါ်လာရင် `keyboard` ဟုရိုက်ထည့်ပါ။
 
-<p style="text-align: justify;">
-  ဦးစွာ<strong> Windows key</strong> နဲ့ <strong>S key</strong> ကိုတွဲ၍နှိပ်ပါ။<strong>Search windows</strong> ဆိုတဲ့အကွက်ကလေးပေါ်လာရင် <strong>keyboard</strong> ဟုရိုက်ထည့်ပါ။
-</p>
+Keyboard နှင့်ပတ်သတ်သည်မျာ းပေါ်လာပါမည်။ အဲ့ထဲကမှ `Setting` အောက်ရှိ `Edit language and keyboard options` ကိုကလစ်တစ်ချက်နှိပ်ပါ။
 
-<p style="text-align: justify;">
-  Keyboard နှင့်ပတ်သတ်သည်များပေါ်လာပါမည်။အဲ့ထဲကမှ <strong>Setting</strong> အောက်ရှိ <strong>Edit language and keyboard options</strong> ကိုကလစ်တစ်ချက်နှိပ်ပါ။
-</p>
+  ![win8-4](/images/w1.png)
 
-<img loading="lazy" class="size-full wp-image-1615 aligncenter" src="http://localhost/wordpress/wp-content/uploads/2017/02/w1.png" alt="" width="329" height="44" srcset="http://localhost/wordpress/wp-content/uploads/2017/02/w1.png 329w, http://localhost/wordpress/wp-content/uploads/2017/02/w1-300x40.png 300w" sizes="(max-width: 329px) 100vw, 329px" /> 
+`Country or region` အောက်တွင် `Myanmar` ကိုရွေးချယ်ပေးပါ။ Languages အောက်ရှိ `Add a language` ကိုကလစ်တစ်ချက် နှိပ်ပါ။ language များစွာ တွေ့မြင်ရမည်ဖြစ်ပြီး အဲ့ထဲကမှ မြန်မာစာ `Burmese` ကိုကလစ်တစ်ချက်နှိပ်ပါ။ အဲ့ဒါဆို မြန်မာယူနီကုဒ် စနစ်ကို စတင်အသုံးပြုနိုင်ပါပြီ။
 
-<p style="text-align: justify;">
-  <strong>Country or region</strong> အောက်တွင် <strong>Myanmar</strong> ကိုရွေးချယ်ပေးပါ။<strong>Languages</strong> အောက်ရှိ <strong>Add a language</strong> ကိုကလစ်တစ်ချက် နှိပ်ပါ။language များစွာတွေ့မြင်ရမည်ဖြစ်ပြီးအဲ့ထဲကမှ <strong>မြန်မာစာ Burmese</strong> ကိုကလစ်တစ်ချက်နှိပ်ပါ။အဲ့ဒါဆိုမြန်မာယူနီကုဒ်စနစ်ကို စတင်အသုံးပြုနိုင်ပါပြီ။
-</p>
+Windows taskbar တွင် `ENG` စာလုံးပေါ်သို့ ထောက်၍ ကလစ်တစ်ချက် နှိပ်ပါ။ ပုံပါအတိုင်း မြန်မာစာ လက်ကွက် နဲ့ အင်္ဂလိပ်စာ လက်ကွက် နှစ်မျိုးတွေ့ မြင်ရမည်ဖြစ်သည်။ မိမိအနေဖြင့် လက်ကွက်နှစ်ခုကို အပြောင်းအလဲ စာရိုက်ရန်အတွတ် `Windows key` ကိုဖိထား ပြီး `spacebar` တစ်ချက်နှိပ်ပေးပါ။ (သို့မဟုတ်) `Alt key` ကိုဖိထားပြီး `Shift key` တစ်ချက်နှိပ်ပေးပါ။ ကိုယ်က အင်္ဂလိပ် လက်ကွက်သုံးနေ ရင် Windows taskbar တွင် `ENG` စာလုံးပေါ်နေမှာ ဖြစ်ပြီး မြန်မာ လက်ကွက် သုံးနေရင် Windows taskbar တွင် `[မြန်]` စာလုံးပေါ်နေမှာ ဖြစ်ပါတယ်။
 
-<p style="text-align: justify;">
-  Windows taskbar တွင်<strong> ENG</strong> စာလုံးပေါ်သို့ထောက်၍ ကလစ်တစ်ချက်နှိပ်ပါ။ပုံပါအတိုင်း မြန်မာစာလက်ကွက်နဲ့အင်္ဂလိပ်စာလက် ကွက်နှစ်မျိုးတွေ့မြင်ရမည်ဖြစ်သည်။ မိမိအနေဖြင့်လက်ကွက်နှစ်ခုကိုအပြောင်းအလဲစာရိုက်ရန်အတွတ် <strong>Windows key</strong>ကိုဖိထား ပြီး <strong>spacebar</strong> တစ်ချက်နှိပ်ပေးပါ။(သို့မဟုတ်) <strong>Alt key</strong> ကိုဖိထားပြီး <strong>Shift key</strong> တစ်ချက်နှိပ်ပေးပါ။ကိုယ်ကအင်္ဂလိပ်လက်ကွက်သုံးနေ ရင် Windows taskbar တွင်<strong> ENG</strong> စာလုံးပေါ်နေမှာဖြစ်ပြီးမြန်မာလက်ကွက်သုံးနေရင် Windows taskbar တွင် <strong>မြန် </strong>စာလုံးပေါ်နေမှာ ဖြစ်ပါတယ်။
-</p>
-
-<img loading="lazy" class="size-full wp-image-1617 aligncenter" src="http://localhost/wordpress/wp-content/uploads/2017/02/w3.png" alt="" width="300" height="230" />
+![win8-5](/images/w3.png)

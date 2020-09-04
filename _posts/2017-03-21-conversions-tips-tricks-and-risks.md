@@ -8,17 +8,17 @@ We are very familiar with Zawgyi too long. But now is the time to move, use 100%
 
 ## A. Simple Conversion Method
 
-In this method, we are going to convert post by post basic. The process is &#8230;
+In this method, we are going to convert post by post basic. The process is --
 
   1. Download **KaNaungConverter\_Window\_Build200508.zip** from the Kanaung project page and Unzip <a href="http://code.google.com/p/kanaung/downloads/list" target="_blank" rel="noopener noreferrer">http://code.google.com/p/kanaung/downloads/list</a>
   2. Run the **KaNaung.exe** and start the conversion for individual posts.
   3. Re-Publish the posts.
 
-In summary, this method is very easy. The only problem is &#8211; we need to use too much time. But it is very safe way. We don&#8217;t need any expert knowledge in the conversion process. This method is suitable for most users.
+In summary, this method is very easy. The only problem is -- we need to use too much time. But it is very safe way. We don't need any expert knowledge in the conversion process. This method is suitable for most users.
 
 ## B. Database Conversion Method
 
-In this method, we are going to convert from the database level. The process is &#8230;
+In this method, we are going to convert from the database level. The process is --
 
   1. Dump the table (e.g &#8211; **posts** table from a WordPress database, **node_review** table from a Drupal database) or the whole database in **SQL, TXT** or **XML** format.
   2. Use one of the converter from the converter list below, to convert your file from Zawgyi to Unicode encoding.
@@ -44,9 +44,9 @@ In summary, this method is **more faster** than the first one. However we need
 
 ## Unicode Converters
 
-  1. Kanaung Converter &#8211; <a href="http://code.google.com/p/kanaung/downloads/list" target="_blank" rel="noopener noreferrer">Download KaNaungConverter_Window_Build200508.zip</a>
-  2. Myanmar NLP Unicode Converter &#8211; <a href="http://www.myanmarnlp.org.mm/index.php?option=com_content&view=article&id=2&Itemid=5" target="_blank" rel="noopener noreferrer">Download Myanmar NLP Unicode Cnverter</a>
-  3. ThanLwinSoft Converter<a href="http://thanlwinsoft.org/ThanLwinSoft/DocCharConvert/" target="_blank" rel="noopener noreferrer">Download ThanLwinSoft DocCharConvert-1.3.0.exe</a>
+  1. Kanaung Converter [Download KaNaungConverter_Window_Build200508.zip](http://code.google.com/p/kanaung/downloads/list) 
+  2. Myanmar NLP Unicode Converter [Download Myanmar NLP Unicode Cnverter](/downloads/converters/UnicodeConverterSetup.msi)
+  3. ThanLwinSoft Converter [Download ThanLwinSoft DocCharConvert-1.3.0.exe](http://thanlwinsoft.org/ThanLwinSoft/DocCharConvert/)
 
 Do you know other converters? Please give a comment for the download link. We will update the list later. Thank you for your support to the community.
 
@@ -56,4 +56,4 @@ Still got problem? **We are ready to help & Support in your Unicode Conversion P
 
 **This is a cross post from mmshare.org. I just change the links and website names only.**
 
-Credit:[**myanmarlanguage.org**](http://www.myanmarlanguage.org/)
+Credit: [myanmarlanguage.org](http://www.myanmarlanguage.org/)

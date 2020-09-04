@@ -12,4 +12,5 @@ Windows 10 Major update ဖြစ်တဲ့ Spring Edition ကို 2018 မ�
 ( Insider Preview တွင် စမ်းသပ်ထားသော YouTube Video တွင်ကြည့်နိုင်ပါသည် )  
 ဒါကြောင့် Windows 10 အသုံးပြုသူများအနေဖြင့် Spring Edition ထွက်လာသည့်အခါ မဖြစ်မနေ update လုပ်သင့်ကြောင်း တိုက်တွန်းအပ်ပါသည် ခင်ဗျား။
 
-မြန်မာကီးဘုတ်လက်ကွက် စမ်းသပ်ထားသော YouTube Video <a href="https://www.youtube.com/watch?v=iUI7kQCKyKc" target="_blank" rel="noopener noreferrer">ကြည့်ရန်နှိပ်ပါ </a>)
+မြန်မာကီးဘုတ်လက်ကွက် စမ်းသပ်ထားသော YouTube Video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iUI7kQCKyKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

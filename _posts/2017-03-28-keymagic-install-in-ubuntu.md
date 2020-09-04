@@ -1,40 +1,79 @@
 ---
-title: Keymagic install in Ubuntu
+title: Keymagic install in Ubuntu, Linux
 date: 2017-03-28T14:07:52+00:00
 layout: post
 categories: Keyboard
 ---
-Ubuntu ပေါ်မှာ keymagic ကိုတပ်ဆင်ရန်အောက်ပါနည်းလမ်းများထဲမှသုံးနိုင်ပါသည်။၎င်းနည်းလမ်းများသည် Linux OSes ကိုအခြေခံထားသော Debian တွင်လည်းလုပ်ဆောင်နိုင်ပါတယ်။
 
-### Installing from kokoye2007 PPA {#installingfromkokoye2007ppa}
+### Installation on Ubuntu
+You may use one of the following methods to install KeyMagic on Ubuntu. These may also work for other Debian based Linux OSes. Thanks to Ko Ko Ye and Ubuntu-MM for providing packages.
+```
+Installing from kokoye2007 PPA
+sudo add-apt-repository -y ppa:kokoye2007/ppa
+sudo apt-get update
+sudo apt-get install ibus-keymagic
+```
+### Installation on Linux
 
-<pre style="box-sizing: border-box; margin: 0 0 1.75em 0; border: #E3EDF3 1px solid; width: 100%; padding: 10px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.9em; white-space: pre; overflow: auto; background: #F7FAFB; border-radius: 3px;"><code>sudo add-apt-repository -y ppa:kokoye2007/ppa  
-sudo apt-get update  
-sudo apt-get install ibus-keymagic  
-</code></pre>
+You may use one of the following methods to install KeyMagic on Ubuntu. These may also work for other Debian based Linux OSes. Thanks to Ko Ko Ye and Ubuntu-MM for providing packages.
 
-### Installing from Ubuntu-MM PPA {#installingfromubuntummppa}
+**Ubuntu - Installing from kokoye2007 PPA**
 
-<pre style="box-sizing: border-box; margin: 0 0 1.75em 0; border: #E3EDF3 1px solid; width: 100%; padding: 10px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.9em; white-space: pre; overflow: auto; background: #F7FAFB; border-radius: 3px;"><code>sudo add-apt-repository -y ppa:ubuntu-mm/ppa  
-sudo apt-get update  
-sudo apt-get install ibus-keymagic  
-ibus-setup & ibus-daemon -rdx  
-</code></pre>
+```
+sudo add-apt-repository -y ppa:kokoye2007/ppa
+sudo apt-get update
+sudo apt-get install ibus-keymagic
+```
+**Manual Installation**
 
-### Installing using deb {#installingusingdeb}
+first, download your Linux Distro base DEB, RPM, or tar.gz.xz file [here](https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/)
 
-−iBus များအတွက် keymagic deb package ကို <a style="color: green;" href="http://www.unicodetoday.org/2016/09/27/keymagic-1-5/">ဤနေရာ</a> တွင် Download လုပ်ပါ။
+**Debian Base**
 
-−ဒေါင်းလုတ်ရယူထားသောဖိုင်ကိုဖွင့်ပါ။ထို့နောက် <code style="padding: 1px 3px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; white-space: pre-wrap; border: #E3EDF3 1px solid; background: #F7FAFB; border-radius: 2px;">ibus-keymagic_1.4.1.20110528-1_i386.deb</code> ကိုကလစ်နှစ်ချက်နှိပ်ပါ။၎င်း<code style="padding: 1px 3px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; white-space: pre-wrap; border: #E3EDF3 1px solid; background: #F7FAFB; border-radius: 2px;">ibus-keymagic_1.4.1.20110528-1_i386.deb</code>ဟာကွဲပြားခြားနားသောဖိုင်အမည်ဖြင့်ရှိနိုင်ပါတယ်။
+first, download your Linux Distro base DEB, RPM, or tar.gz.xz file [DEB here](https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/DEBIAN_Ubuntu_Mint_Pinguy_Kali_Deb/)
+  - Debian base – Ubuntu, Mate, Kali, Debian, Pinguy, Mint, etc
+```    
+sudo dpkg -i ibus-keymagic*.deb
+```
 
-−Ubuntu Software Center ဖွင့်လှစ်ပါ။
+**Redhat Base**
 
-−Install ကိုကလစ်နှိပ်ပါ။(အကယ်၍ခွင့်ပြုရန်အတွတ် system request တောင်းခံလာပါကသင့်ရဲ့ user password ကိုထည့်သွင်းပေးလိုက်ပါ။)
+first, download your Linux Distro base DEB, RPM, or tar.gz.xz file
+1. [Fedora fc-x86-64](https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/Redhat_Fedora_CentOS_RPM/Fedora/)
+2. [CentOS el7 x86-64](https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/Redhat_Fedora_CentOS_RPM/CentOS/)
 
-−ထို့နောက် setting page သို့သွားပါ။<code style="padding: 1px 3px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; white-space: pre-wrap; border: #E3EDF3 1px solid; background: #F7FAFB; border-radius: 2px;">System &gt; Preferences &gt; Input Method Switcher</code>
+- Redhat base – Redhat, Fedora, CentOS, etc
+```
+sudo -ivh ibus-keymagic*.rpm
+```
 
-−ထို့နောက် iBus ကိုရွေးချယ်ပေးလိုက်ပါ။စတင်အသုံးပြုနိုင်ပါပြီ။
+**Arch Linux**
 
-−စာရိုက်ရန်လက်ကွက် (keyboard) ကို **<a style="color: blue;" href="http://www.unicodetoday.org/keyboards/keymagic_layouts/">ဒီနေရာ</a>** တွင်ဒေါင်းယူပါ။မူရင်းဝက်ဘ်ဆိုက်တွင်ဒေါင်းယူလိုပါက <a style="color: red;" href="http://keymagic.net/keyboards/">ဒီနေရာ</a> ကိုသွားပါ။
+[ibus-keymagic-x86_64.pkg.tar.xz](https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/ARCH_Linux/ibus-keymagic-x86_64.pkg.tar.xz/download)
+```
+ pacman -U ibus-keymagic*.xz
+```
 
-Credit:[**Keymagic.net**](http://keymagic.net/)
+**Keyboard Layout**
+
+Download Keyboard Layout [here][1] – Example KhmerNiDA, Myanmar, Mon, Shan, Malay
+Add and Configure
+
+[1]: https://github.com/thantthet/keymagic-keyboards
+```
+mkdir ~/.keymagic
+copy .km2 ~/.keymagic
+ibus-daemon -rdx
+ibus-setup &
+ibus-daemon -rdx
+```
+```
+#if using gnome ?
+gnome-control-center region
+```
+> KeyMagic is under the English Group Add your Additional Keyboard
+
+Logout and try your keyboard
+
+[Ko Ko Ye](https://ubuntu-mm.net/)
+Credit: [Keymagic.net](http://keymagic.net/)

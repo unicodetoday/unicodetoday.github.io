@@ -9,6 +9,4 @@ categories: Activities
 အစီ အစဉ်များနှင့်စပ်လျဉ်း၍ ဆက်သွယ်ရေး အော်ပရေတာများ၏ SMS System များ၊ Billing System များတွင် မြန်မာယူနီကုဒ်စနစ်ကိုပါ ထည့်သွင်း အသုံးပြုသွားနိုင်ရေး၊ မြန်မာနိုင်ငံ ကွန်ပျူတာအသင်းချုပ်မှ လိုအပ်သော နည်းပညာများ အထောက်အပံ့ရရှိနိုင်ရေး ဆွေးနွေးညှိနှိုင်းခဲ့ကြပါသည်။  
 ဆက်လက်၍ ဒုတိယညွှန်ကြားရေးမှူးချုပ် ဦးမျိုးဆွေက စတင်အကောင်အထည်ဖော်နိုင်မည့် အချိန်ကာလတို့အတွက် ပြန်လည်တင်ပြပေးရန် မှာကြားခဲ့ကြောင်းသိရပါသည်။
 
-<img loading="lazy" class="alignnone size-full wp-image-3326" src="http://localhost/wordpress/wp-content/uploads/2018/06/telco-meeting.jpg" alt="" width="4160" height="1938" /> 
-
-<img loading="lazy" class="alignnone size-full wp-image-3326" src="http://localhost/wordpress/wp-content/uploads/2018/06/telco-meeting.jpg" alt="" width="4160" height="1938" />
+![telco meetng](/images/telco-meeting.jpg)
