@@ -1,5 +1,5 @@
 ---
-title: Keyboards
+title: ကီးဘုတ်
 author: suntun
 layout: page
 permalink: /keyboards/

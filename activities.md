@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: ဆောင်းပါး
 author: suntun
 layout: page
 permalink: /activities/

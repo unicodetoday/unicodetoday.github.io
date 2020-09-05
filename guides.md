@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: လမ်းညွှန်
 author: suntun
 layout: page
 permalink: /guides/
@@ -8,7 +8,7 @@ permalink: /guides/
 {% for page in site.pages %}
   {% if page.categories contains 'guides' %}
     <div class="item">
-      &#10070; <a href="{{ page.url }}">
+      &#10070; <a href="{{ page.url }}" style="font-family: Pyidaungsu;">
        <!-- {{ page.title }}-->
         {{page.description}}
       </a>

@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url(//fonts.googleapis.com/earlyaccess/myanmarsanspro.css);
+@import url(//fonts.googleapis.com/earlyaccess/khyay.css);
+@import url('//mmwebfonts.comquas.com/fonts/?font=pyidaungsu');
+
+p, ul, ol, h4, h3, table {
+    font-family: "Pyidaungsu";
+}
+.post-title {
+    font-family: 'Myanmar Sans Pro', sans-serif;
+    font-size: xx-large;
+    line-height: 1.5;
+}
+.post-content h2 {
+    font-family: 'Myanmar Sans Pro', sans-serif;
+}
+.site-nav .page-link {
+    font-family: 'Khyay', sans-serif;
+}

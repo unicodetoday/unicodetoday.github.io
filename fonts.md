@@ -1,5 +1,5 @@
 ---
-title: Fonts
+title: ဖောင့်
 author: suntun
 layout: page
 permalink: /fonts/

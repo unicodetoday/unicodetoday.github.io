@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: မေးနေကျ
 layout: page
 permalink: /faqs/
 ---

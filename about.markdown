@@ -1,5 +1,5 @@
 ---
-title: About
+title: ဆက်သွယ်ရန်
 author: suntun
 layout: page
 permalink: /about/
