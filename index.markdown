@@ -25,8 +25,9 @@ layout: page
 </details>
 
 <details>
-<summary markdown="span">**Huawei, Honor**</summary> ( EMUI version 4.x အတွက် )
+<summary markdown="span">**Huawei, Honor**</summary> 
 <ul>
+ <li>( EMUI version 4.x အတွက် )</li>
  <li> <a href="{{site.url}}/downloads/Light.hwt">[Light.hwt file]</a> ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ</li>
  <li> Theme app ကိုသွားပါ။ ထိုမှတဆင့် Me (သို့) Mine ကိုနှိပ်၍ Light theme ကိုရွေး‌ပေးပါ။ </li>
  <li> Setting >> System >> Language and Region တွင် Region ကို Myanmar (Burma) ပြောင်းလို့ရပါက ပြောင်းထားပါ</li>
@@ -134,3 +135,12 @@ layout: page
   <li><a href="{% post_url 2019-10-05-apple-keyman-install %}">Keyman ထည့်နည်း ဆက်လက်ကြည့်ရှုရန်</a></li>
 </ol>
 </details>
+
+<style>
+.post-title{
+  display: none;
+}
+.page-content {
+    padding: 0;
+}
+</style>

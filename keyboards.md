@@ -41,3 +41,12 @@ permalink: /keyboards/
   [typing]: {% post_url 2019-03-05-pyidaungsu-mm-typing %}
   [kminstall]: {% post_url 2019-03-09-keyman-install %}
   [layout]: /downloads/docs/kblayout.htm
+
+<style>
+.post-title{
+  display: none;
+}
+.page-content {
+    padding: 0;
+}
+</style>

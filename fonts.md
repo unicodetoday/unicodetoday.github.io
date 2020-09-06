@@ -20,20 +20,56 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 ### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 
-#### **Windows 7 ( Office ဗားရှင်းအားလုံး ) သို့မဟုတ် Windows 8, 10 ( Office 2010 )**
+အသုံးပြုလျှက်ရှိသော Windows OS နှင့် Office Version ကိုရွေးချယ်ပါက Font Download Links ကျလာမည်ဖြစ်ပါသည်။
 
-1. [Download Pyidaungsu-1.8.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Regular.ttf)
-2. [Download Pyidaungsu-1.8.3_Bold.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Bold.ttf)
-3. [Download Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-1.8.3_Numbers.ttf)
+<div class="row">
+	<div class="col">
+		<select id="opts1" class="form-control" onchange="showForm()">
+			<option value="0">Select Os</option>
+			<option value="1">Windows 7</option>
+			<option value="2">Windows 8, 10</option>
+			<option value="3">Mac OSX</option>
+		</select>
+	</div>
+  <div class="col">&nbsp;&nbsp;&nbsp;</div>
+	<div class="col">
+		<select id="opts2" class="form-control" onchange="showForm()">
+			<option value="0">Select Office</option>
+			<option value="1">Office 2010 and older</option>
+			<option value="2">Office 2013 and Above</option>
+		</select>
+	</div>
+</div>	
+<div style="height: 110px;">
+<div id="f1" style="display: none; padding: 10px;">
+	<div class="row">
+		<div>1. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Regular.ttf">Download Pyidaungsu-1.8.3_Regular.ttf ဖောင့်</a></div>	
+	</div>
+	<div class="row">
+		<div>2. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Bold.ttf">Download Pyidaungsu-1.8.3_Bold.ttf ဖောင့်</a></div>
+	</div>
+	<div class="row">
+		<div>3. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Numbers.ttf">Download Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်</a></div>
+	</div>
+</div>
+<div id="f2" style="display: none; padding: 10px;">
+	<div class="row">
+		<div>1. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf">Download Pyidaungsu-2.5.3_Regular.ttf ဖောင့်</a></div>
+	</div>
+	<div class="row">
+		<div>2. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf">Download Pyidaungsu-2.5.3_Bold.ttf ဖောင့်</a></div>
+	</div>
+	<div class="row">
+		<div>3. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Numbers.ttf">Download Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်</a></div>
+	</div>
+	<div class="row">
+		<div>4. <a href="/downloads/fonts/Myanmar3-2018.ttf">Download Myanmar3-2018.ttf ဖောင့်</a></div>
+	</div>
+</div>
+</div>
 
-#### **Windows 8, 10 ( Office 2013 အထက်နှင့် Office 365 )**
-
-1. [Download Pyidaungsu-2.5.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf)
-2. [Download Pyidaungsu-2.5.3_Bold.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf)
-3. [Download Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-2.5.3_Numbers.ttf)
-4. [Download Myanmar3-2018.ttf ဖောင့် ](/downloads/fonts/Myanmar3-2018.ttf)
 - [ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်]({% post_url 2018-02-05-unicode-font %})
-- မှတ်ချက် - ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက All in One Setup File ကိုရယူပါ။ 
+- မှတ်ချက် - ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက [Font Only Setup File](https://github.com/unicodetoday/binary-download/raw/download/Pyidaugsu-Font-Setup-5.2.exe) ကိုရယူပါ။ 
 
 ----
 
@@ -50,3 +86,46 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
  **License** :
 Pyidaungsu is licensed according to the terms of the [SIL Open Font License](http://scripts.sil.org/OFL).
+
+<style>
+.post-title{
+  display: none;
+}
+.page-content {
+    padding: 0;
+}
+.row {
+  display: flex;
+}
+</style>
+
+<script type="text/javascript">
+    function showForm() {
+        var selopt1 = document.getElementById("opts1").value;
+		var selopt2 = document.getElementById("opts2").value;
+        if (selopt1 == 0) {
+            document.getElementById("f1").style.display = "none";
+            document.getElementById("f2").style.display = "none";
+        }
+        if (selopt1 == 1 || selopt1 == 3) {
+            document.getElementById("f1").style.display = "block";
+            document.getElementById("f2").style.display = "none";
+        }
+	if (selopt1 == 2) {
+            //document.getElementById("f2").style.display = "block";
+            document.getElementById("f1").style.display = "none";
+        }
+	if (selopt1 == 2 && selopt2 == 1){
+		document.getElementById("f1").style.display = "block";
+		document.getElementById("f2").style.display = "none";
+	}
+	if (selopt1 == 2 && selopt2 == 2){
+		document.getElementById("f1").style.display = "none";
+		document.getElementById("f2").style.display = "block";
+	}
+	if (selopt1 == 2 && selopt2 == 0){
+		document.getElementById("f1").style.display = "none";
+		document.getElementById("f2").style.display = "none";
+	}
+    }
+</script>

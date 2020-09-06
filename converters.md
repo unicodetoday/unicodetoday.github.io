@@ -37,3 +37,12 @@ permalink: /converters/
 [9]: /downloads/converters/MUAFC.exe
 [10]: {% post_url 2017-03-17-converter %}
 [11]: https://itunes.apple.com/sg/app/rabbit-converter/id1219960370?mt=12
+
+<style>
+.post-title{
+  display: none;
+}
+.page-content {
+    padding: 0;
+}
+</style>
