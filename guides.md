@@ -8,7 +8,7 @@ permalink: /guides/
 {% for page in site.pages %}
   {% if page.categories contains 'guides' %}
     <div class="item">
-      &#10070; <a href="{{ page.url }}" style="font-family: Pyidaungsu;">
+      &#10070; <a href="{{ page.url }}" style="font-family: 'Khyay', sans-serif;">
        <!-- {{ page.title }}-->
         {{page.description}}
       </a>

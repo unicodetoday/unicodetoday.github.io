@@ -2,7 +2,7 @@
 title: ဖောင့် ကီးဘုတ်ထည့်နည်း ဗီဒီယို
 date: 2019-09-27T12:31:58+00:00
 layout: post
-categories: Mobile
+categories: draft-Mobile
 ---
 <button type="button" class="collapsible">Samsung</button> 
 
@@ -114,7 +114,7 @@ categories: Mobile
   </ul>
 </div>
 
-<pre class="wp-block-code"><code>&lt;script>
+<script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -129,9 +129,9 @@ for (i = 0; i &lt; coll.length; i++) {
     } 
   });
 }
-&lt;/script></code></pre>
+<script>
 
-<pre class="wp-block-code"><code>&lt;style>
+<style>
 .collapsible {
   background-color: #777;
   color: white;
@@ -172,4 +172,4 @@ padding-left: 20px;
 width: 100%;
 font-size: 16px;
 }
-&lt;/style></code></pre>
+<style>

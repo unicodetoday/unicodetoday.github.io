@@ -19,16 +19,14 @@ ZawgyiOne2008.ttf
 
 အထက်​မှ​ကုတ်​ပါ​မှ​သာ မ​ပါ​လျှင်​ဘာ​မှ​လုပ်​စရာ မ​လို​ပါ။
 
-ပြီး​ရင်/system/fonts/ အောက်​မှာ Padauk-book.ttf ဖိုင်​အား​ထည့်​ပါ။Padauk-book.ttf ၏ permission အား rw-r&#8211;r&#8211; အဖြစ် Root explorer သုံး​၍​ပြောင်း​ပါ။
+ပြီး​ရင် /system/fonts/ အောက်​မှာ Padauk-book.ttf ဖိုင်​အား​ထည့်​ပါ။ Padauk-book.ttf ၏ permission အား rw-r-r- အဖြစ် Root explorer သုံး​၍​ပြောင်း​ပါ။
 
 Padauk-book.ttf ဖိုင်​အားရ​ယူ​ရန်
-
-https://docs.google.com/&#8230;/0Bw0hGdukFr1SSDY2S0RU&#8230;/edit&#8230;
 
 ပြီး​ရင် /system/etc/ အောက်​က  
 fallback_fonts.xml  
 fallback\_fonts\_sbrowser.xml  
-ဖိုင်​တွေ​မှာ အောက်​က​ကုဒ်​တွေ ထည့်​ရ​ပါ​မယ်&#8230;
+ဖိုင်​တွေ​မှာ အောက်​က​ကုဒ်​တွေ ထည့်​ရ​ပါ​မယ်
 
 Padauk-book.ttf
 

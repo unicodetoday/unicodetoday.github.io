@@ -10,25 +10,22 @@ Mac OS X စသုံးစဉ်က Unicode Keyboard အနေနဲ့အသ�
 
 KeyMagic က Default အနေနဲ့ English category အောက်မှာရှိနေတာပါ။ Burmese အောက်ကိုပြောင်းဖို့အတွက်ကတော့ `KeyMagic.app` ရဲ့ Content ထဲက `Info.plist` ဆိုတဲ့ဖိုင်မှာဝင်ပြင်ပေးရတာပါ။
 
-<pre style="color: black; background-color: #f9f9f9; border: 1px solid #ddd; padding: 1em;"><code class="language-xml">TISIntendedLanguage
+```
+TISIntendedLanguage
 my_BU
-</code></pre>
+```
 
 ဆိုတဲ့ Key နဲ့ String Value ကိုထပ်ဖြည့်ပေးရမှာဖြစ်ပါတယ်။
 
 ဒီကိစ္စကို KeyMagic Developer ဖြစ်တဲ့ သန့်သက်နဲ့ ပြောကြည့်ပေမယ့် သူ့အနေနဲ့ KeyMagic ကို Burmese အောက်ထားတာမသင့်တော်တဲ့အတွက် အခြားနည်းလမ်းရှာကြည့်ဦးမယ်လို့တော့ဆိုပါတယ်။ ဘာကြောင့်လည်းဆိုတော့ KeyMagic ကို အခြားနိုင်ငံတွေမှာလည်းသုံးနေတာဖြစ်တဲ့အတွက် Burmese အောက်မထားတာပါ။
 
 မြန်မာနိုင်ငံကလူတွေအတွက်တော့ Burmese အောက်ရောက်တာပြဿနာမရှိတာကြောင့် ယာယီအနေနဲ့ ပြောင်းရလွယ်အောင် Script လေးလုပ်ပေးလိုက်ပါတယ်။ အဓိကက KeyMagic အသုံးပြုသူတွေ Proper Fix မထွက်ခင် အဆင်ပြေပြေသုံးနိုင်ဖို့အတွက်ရည်ရွယ်ပြီး ရေးပေးထားတာပါ။
-
-<blockquote style="padding: 0 0 0 15px; margin: 0 0 20px; border-left: 5px solid #fa5305;">
-  <p>
-    အင်တာနက် ချိပ်ဆက်ထားဖို့တော့လိုအပ်ပါတယ်။
-  </p>
-</blockquote>
+    
+```အင်တာနက် ချိပ်ဆက်ထားဖို့တော့လိုအပ်ပါတယ်။```
 
 Fix မလုပ်ခင် ပထမဦးဆုံး KeyMagic ကို Input List ထဲမှ ခဏထုတ်ထားလိုက်ပါ။
 
-KeyMagic ကိုရွေးပြီး **&#8211;** button လေးကိုနှိပ်လိုက်ပါ။
+KeyMagic ကိုရွေးပြီး -- button လေးကိုနှိပ်လိုက်ပါ။
 
 ![kmfix01](https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/Photos/kmfix/kmfix01.png) 
 
@@ -40,12 +37,13 @@ Trash ထဲထည့်မလားမေးရင် Keep File ကိုရွ
 
 ပေးထားတဲ့ command ကို Terminal ထဲကူးထည့်ပြီး Enter နှိပ်လိုက်ပါ။
 
-<pre style="color: black; background-color: #f9f9f9; border: 1px solid #ddd; padding: 1em;"><code class="language-sh" style="color: #fa5305;">sh -c "$(curl -fsSL https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/osx/kmfix)"
-</code></pre>
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/osx/kmfix)"
+```
 
 ![kmfix03](https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/Photos/kmfix/kmfix03.png) 
 
-ပုံထဲကအတိုင်း <span style="font-size: 16px; color: #fa5305;">Set Language as my_BU </span>လို့ပေါ်လာရင်ရပါပြီ။
+ပုံထဲကအတိုင်း ```Set Language as my_BU``` လို့ပေါ်လာရင်ရပါပြီ။
 
 Input List ထဲ KeyMagic ကို ပြန်ထည့်ရုံပါပဲ။
 
@@ -67,7 +65,8 @@ Rollback လုပ်မလားမေးရင် `y` key ကို နှိ�
 
 ဒါကတော့ Script ရဲ့ Source ပါ။
 
-<pre style="display: block; padding: 9.5px; margin: 0 0 10px; font-size: 13px; line-height: 20px; word-break: break-all; word-wrap: break-word; white-space: pre-wrap; background-color: transparent; border: 1px solid rgba(0,0,0,0.15);"><code class="language-sh" style="font-size: 16px; color: #fa5305;">#!/bin/bash
+```
+#!/bin/bash
 #This script is just a temporary fix for KeyMagic issue in Mac OS X login.
 #Written by NAING YE MINN &lt;me@naingyeminn.com&gt;
 
@@ -128,18 +127,10 @@ if [ -f "$FILE" ]; then
 		setLang
 	fi
 fi
-</code></pre>
+```
 
 အားလုံးပဲ အဆင်ပြေကြပါစေ။ 🙂
-
-<blockquote style="padding: 0 0 0 15px; margin: 0 0 20px; border-left: 5px solid #fa5305;">
-  <p>
     Update: September 1 2016
-  </p>
-  
-  <p>
-    အသစ်ထွက်လာတဲ့ KeyMagic 1.5.1 အတွက်ပါ ထပ်မံဖြည့်စွက်ပေးထားပါတယ်။ 🙂
-  </p>
-</blockquote>
+> အသစ်ထွက်လာတဲ့ KeyMagic 1.5.1 အတွက်ပါ ထပ်မံဖြည့်စွက်ပေးထားပါတယ်။ 🙂
 
-Credit:[**http://naingyeminn.com**](http://naingyeminn.com/)
+Credit:[http://naingyeminn.com](http://naingyeminn.com/)
