@@ -9,8 +9,9 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 #### **ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်**
 
-<a href="https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i>  All-in-One Setup</button></a>  သို့မဟုတ်  [ All-in-One Zip file][zip] 
-  - [ User Manual PDF file][pdf]
+<a href="https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i>  All-in-One Setup</button></a>  သို့မဟုတ် 
+ - [ All-in-One Zip file][zip] 
+ - [ User Manual PDF file][pdf]
 
 [zip]: /downloads/zips/All-in-One_Pyidaungsu_Font.zip
 [pdf]: /downloads/docs/Pyidaungsu_Font_User_Manual_05.pdf
@@ -19,9 +20,7 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 ### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 
-<a href="https://github.com/unicodetoday/binary-download/raw/download/Pyidaugsu-Font-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i> Font Only Setup </button></a>
-
-  သို့မဟုတ်
+<a href="https://github.com/unicodetoday/binary-download/raw/download/Pyidaugsu-Font-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i> Font Only Setup </button></a>  သို့မဟုတ်
 
 အသုံးပြုလျှက်ရှိသော Windows OS နှင့် Office Version ကိုရွေးချယ်ပါက Font Download Links ကျလာမည်ဖြစ်ပါသည်။
 
@@ -145,7 +144,7 @@ Pyidaungsu is licensed according to the terms of the [SIL Open Font License](htt
   background-color: DodgerBlue;
   border: none;
   color: white;
-  padding: 12px 30px;
+  padding: 12px 20px;
   cursor: pointer;
   font-size: 16px;
 }
