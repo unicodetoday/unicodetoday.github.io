@@ -23,18 +23,19 @@ p, ul, ol, table, h4, h3 {
 .site-nav .page-link {
     font-family: 'Khyay', sans-serif;
 }
-.footer-col-1 {
-    width: -webkit-calc(35% - (30px / 2));
-    width: calc(35% - (30px / 2));
-}
+
 .footer-col-2 {
     display: none;
     //width: -webkit-calc(20% - (30px / 2));
     //width: calc(20% - (30px / 2));
 }
+.footer-col-1 {
+    width: -webkit-calc(40% - (30px / 2));
+    width: calc(40% - (30px / 2));
+}
 .footer-col-3 {
-    width: -webkit-calc(65% - (30px / 2));
-    width: calc(65% - (30px / 2));
+    width: -webkit-calc(60% - (30px / 2));
+    width: calc(60% - (30px / 2));
 }
 /*
 @font-face {
