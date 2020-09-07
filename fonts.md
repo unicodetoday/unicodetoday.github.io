@@ -9,8 +9,8 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 #### **ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်**
 
-1. [Download All in One Setup][setup]  သို့မဟုတ်  [Download All-in-One Zip file][zip] 
-  - [Download User Manual PDF file][pdf]
+1. [ All in One Setup][setup]  သို့မဟုတ်  [ All-in-One Zip file][zip] 
+  - [ User Manual PDF file][pdf]
 
 [setup]: https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe
 [zip]: /downloads/zips/All-in-One_Pyidaungsu_Font.zip
@@ -40,30 +40,30 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 		</select>
 	</div>
 </div>	
-<div style="height: 110px;">
+<div style="height: 150px;">
 <div id="f1" style="display: none; padding: 10px;">
 	<div class="row">
-		<div>1. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Regular.ttf">Download Pyidaungsu-1.8.3_Regular.ttf ဖောင့်</a></div>	
+		<div>1. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Regular.ttf"> Pyidaungsu-1.8.3_Regular.ttf ဖောင့်</a></div>	
 	</div>
 	<div class="row">
-		<div>2. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Bold.ttf">Download Pyidaungsu-1.8.3_Bold.ttf ဖောင့်</a></div>
+		<div>2. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Bold.ttf"> Pyidaungsu-1.8.3_Bold.ttf ဖောင့်</a></div>
 	</div>
 	<div class="row">
-		<div>3. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Numbers.ttf">Download Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်</a></div>
+		<div>3. <a href="/downloads/fonts/Pyidaungsu-1.8.3_Numbers.ttf"> Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်</a></div>
 	</div>
 </div>
 <div id="f2" style="display: none; padding: 10px;">
 	<div class="row">
-		<div>1. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf">Download Pyidaungsu-2.5.3_Regular.ttf ဖောင့်</a></div>
+		<div>1. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf"> Pyidaungsu-2.5.3_Regular.ttf ဖောင့်</a></div>
 	</div>
 	<div class="row">
-		<div>2. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf">Download Pyidaungsu-2.5.3_Bold.ttf ဖောင့်</a></div>
+		<div>2. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf"> Pyidaungsu-2.5.3_Bold.ttf ဖောင့်</a></div>
 	</div>
 	<div class="row">
-		<div>3. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Numbers.ttf">Download Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်</a></div>
+		<div>3. <a href="/downloads/fonts/Pyidaungsu-2.5.3_Numbers.ttf"> Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်</a></div>
 	</div>
 	<div class="row">
-		<div>4. <a href="/downloads/fonts/Myanmar3-2018.ttf">Download Myanmar3-2018.ttf ဖောင့်</a></div>
+		<div>4. <a href="/downloads/fonts/Myanmar3-2018.ttf"> Myanmar3-2018.ttf ဖောင့်</a></div>
 	</div>
 </div>
 </div>
@@ -74,14 +74,14 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 ----
 
 ### Adobe CS3, 4, 5, 6
-1. [Download Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-Book-1.8.3_Regular.ttf)
-2. [Download Pyidaungsu-Book-1.8.3_Bold ဖောင့်](/downloads/fonts/Pyidaungsu-Book-1.8.3_Bold.ttf)
+1. [ Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်](/downloads/fonts/Pyidaungsu-Book-1.8.3_Regular.ttf)
+2. [ Pyidaungsu-Book-1.8.3_Bold ဖောင့်](/downloads/fonts/Pyidaungsu-Book-1.8.3_Bold.ttf)
 - [ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်]({% post_url 2018-02-05-unicode-font %})
 
 ### iPhone, iPad အတွက် ဖောင့်ပရိုဖိုင်
-1. [Download Pyidaungsu-2.4.mobileconfig](/downloads/fonts/Pyidaungsu-2.4.mobileconfig)
-2. [Download Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)](/downloads/fonts/Pyidaungsu-1.3.mobileconfig)
-3. [Download ZawDecode-2.1.mobileconfig](/downloads/fonts/ZawDecode-2.1.mobileconfig)
+1. [ Pyidaungsu-2.4.mobileconfig](/downloads/fonts/Pyidaungsu-2.4.mobileconfig)
+2. [ Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)](/downloads/fonts/Pyidaungsu-1.3.mobileconfig)
+3. [ ZawDecode-2.1.mobileconfig](/downloads/fonts/ZawDecode-2.1.mobileconfig)
 - iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
 
  **License** :

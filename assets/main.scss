@@ -3,13 +3,33 @@
 ---
 
 @import "minima";
+
 @import url(//fonts.googleapis.com/earlyaccess/myanmarsanspro.css);
 @import url(//fonts.googleapis.com/earlyaccess/khyay.css);
-@import url('//mmwebfonts.comquas.com/fonts/?font=pyidaungsu');
+//@import url('//mmwebfonts.comquas.com/fonts/?font=pyidaungsu');
 
-p, ul, ol, h4, h3, table {
+@font-face {
+    font-family:'Pyidaungsu';
+    font-style: normal;
+    font-weight: normal;
+    src:local('Pyidaungsu'), 
+    url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-Regular.woff') format('woff'), 
+    url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-Regular.woff2') format('woff2'), 
+    url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-2.5.3_Regular.ttf') format('ttf');
+    }
+@font-face {
+        font-family:'Pyidaungsu';
+        font-style: normal;
+        font-weight: normal;
+        src:local('Pyidaungsu'), 
+        url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-Bold.woff') format('woff'), 
+        url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-Bold.woff2') format('woff2'), 
+        url('https://unicodetoday.github.io/downloads/fonts/Pyidaungsu-2.5.3_Bold.ttf') format('ttf');
+    }
+p, ul, ol, table, h4, h3 {
     font-family: "Pyidaungsu";
 }
+
 .post-title {
     font-family: 'Myanmar Sans Pro', sans-serif;
     font-size: xx-large;

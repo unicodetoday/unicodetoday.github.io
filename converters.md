@@ -24,7 +24,7 @@ permalink: /converters/
 <!-- 9. **MUAFontConverter** [Download][9] -->
 9. **Rabbit Converter (Mac Version)**  [Download][11]
 
-#### **Web Browser ကိုအသုံ:ပြုသော converter များ** [See More][10]
+#### **Web Browser ကိုအသုံးပြုသော converter များ** [See More][10]
 
 [1]: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/kanaung/KaNaungConverter_Window_Build200508.zip
 [2]: http://www.mediafire.com/file/lyj3ae3g4mm7uuw/PK_Converter+%28no+Java%29.zip
