@@ -11,9 +11,9 @@ permalink: /keyboards/
 
 | KeyMagic <img src="/images/keymagic-images.png">   | Keyman <img src="/images/keyman-image.png">    | Windows 10  <img src="/images/win10.png"> |
 | :-------------------- |:-----------------| :-----------|
-| [Windows 7, 8, 10 အတွက် ][1] | [Keyman 13.0 (PyidaungsuMM-2.5)][5] | [ဖွင့်သုံးနည်း ကြည့်ရန်][8] |
+| [Windows 7, 8, 10 အတွက် ][1] | [Keyman 13.0 (Pyidaungsu MM-2.5)][5] | [ဖွင့်သုံးနည်း ကြည့်ရန်][8] |
 | [Mac OS X အတွက် ][2]  | [Keyman 13.0 for MacOS][6] |  |
-| [Ubuntu အတွက် ][3] | [PyidaungsuMM-2.5.kmp][7] |   |
+| [Ubuntu အတွက် ][3] | [Pyidaungsu MM-2.5.kmp][7] |   |
 | [Linux အတွက်][9]  | Mac အတွက် .kmp လိုပါသည် |  |
 | [Pyidaungsu MM.km2 ][4] |   |   |
 
