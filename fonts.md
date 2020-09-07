@@ -9,16 +9,19 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 #### **ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်**
 
-1. [ All in One Setup][setup]  သို့မဟုတ်  [ All-in-One Zip file][zip] 
+<a href="https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i>  All-in-One Setup</button></a>  သို့မဟုတ်  [ All-in-One Zip file][zip] 
   - [ User Manual PDF file][pdf]
 
-[setup]: https://github.com/unicodetoday/binary-download/raw/download/All-in-One-Setup-5.2.exe
 [zip]: /downloads/zips/All-in-One_Pyidaungsu_Font.zip
 [pdf]: /downloads/docs/Pyidaungsu_Font_User_Manual_05.pdf
 
 ------
 
 ### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
+
+<a href="https://github.com/unicodetoday/binary-download/raw/download/Pyidaugsu-Font-Setup-5.2.exe"><button class="btn"><i class="fa fa-download"></i> Font Only Setup </button></a>
+
+  သို့မဟုတ်
 
 အသုံးပြုလျှက်ရှိသော Windows OS နှင့် Office Version ကိုရွေးချယ်ပါက Font Download Links ကျလာမည်ဖြစ်ပါသည်။
 
@@ -69,7 +72,6 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 </div>
 
 - [ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်]({% post_url 2018-02-05-unicode-font %})
-- မှတ်ချက် - ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက [Font Only Setup File](https://github.com/unicodetoday/binary-download/raw/download/Pyidaugsu-Font-Setup-5.2.exe) ကိုရယူပါ။ 
 
 ----
 
@@ -129,3 +131,20 @@ Pyidaungsu is licensed according to the terms of the [SIL Open Font License](htt
 	}
     }
 </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Darker background on mouse-over */
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
