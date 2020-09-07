@@ -10,7 +10,7 @@ categories: [guides]
 <ul style="list-style: none;">
   {% for post in site.posts %}
      {% if post.categories contains 'Converter' %}
-    <li>&#10066; <a href="{{ post.url }}">{{ post.title }}</a>
+    <li>&#x2726; <a href="{{ post.url }}">{{ post.title }}</a>
       <!--{{ post.excerpt }}-->
     </li>
      {% endif %}

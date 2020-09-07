@@ -89,18 +89,6 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
  **License** :
 Pyidaungsu is licensed according to the terms of the [SIL Open Font License](http://scripts.sil.org/OFL).
 
-<style>
-.post-title{
-  display: none;
-}
-.page-content {
-    padding: 0;
-}
-.row {
-  display: flex;
-}
-</style>
-
 <script type="text/javascript">
     function showForm() {
         var selopt1 = document.getElementById("opts1").value;
@@ -133,6 +121,26 @@ Pyidaungsu is licensed according to the terms of the [SIL Open Font License](htt
 </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+.post-title{
+  display: none;
+}
+.page-content {
+    padding: 0;
+}
+.row {
+  display: flex;
+}
+.form-control {
+    display: block;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.4;
+    color: DodgerBlue;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
 .btn {
   background-color: DodgerBlue;
   border: none;

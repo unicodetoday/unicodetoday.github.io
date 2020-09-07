@@ -20,7 +20,7 @@
 
 title: MYANMAR UNICODE® MIGRATION
 email: unicodetoday@gmail.com
-author: Tech Support
+author: Tech Support | 09 455 736 999
 description: >- # this means to ignore newlines until "baseurl:"
   Unicode® is a registered trademark of Unicode, Inc. in the United States and 
   other countries. This site is not in any way associated with or endorsed or 
@@ -44,7 +44,6 @@ header_pages:
   - guides.md
   - activities.md
   - faqs.md
-  - about.markdown
 
 categories: [guides]
 

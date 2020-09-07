@@ -23,6 +23,16 @@ p, ul, ol, table, h4, h3 {
 .site-nav .page-link {
     font-family: 'Khyay', sans-serif;
 }
+
+.footer-col-2 {
+    display: none;
+    //width: -webkit-calc(20% - (30px / 2));
+    //width: calc(20% - (30px / 2));
+}
+.footer-col-3 {
+    width: -webkit-calc(60% - (30px / 2));
+    width: calc(60% - (30px / 2));
+}
 /*
 @font-face {
     font-family:'Pyidaungsu';
