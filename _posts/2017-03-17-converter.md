@@ -68,7 +68,7 @@ Web browser extension ဆိုတာကတော့ Firefox,Chrome,Safari,…�
 
 [11]: https://addons.opera.com/en-gb/extensions/details/mua-web-unicode-converter/
 
-### Web Converter များ
+### Online Converter များ
 converter website ဆိုတာကတော့ website စာမျက်နှာပေါ်မှာတင် convert ပြုလုပ်နိုင်အောင်ရ ေးသားထားသော web page တစ်ခုဖြစ်ပါသည်။ Converter software ကို install တင်စရာမလိုဘဲအဆိုပါ converter web page လင့်ကို save ထားပြီးအသုံးလိုသည့်အခါတွင် web browser ၌ ပြန်လည်ခေါ်ယူ၍ အသုံးပြုနိုင်ပါသည်။ အဆိုပါ converter web page လင့်ကိုမည်သည့် browser တွင်မဆို အသုံးပြုနိုင်ပါသည်။ 
 
 - [Zawgyi1 <=> Unicode 2-Way Converter][12] `MCF Myanmar`
