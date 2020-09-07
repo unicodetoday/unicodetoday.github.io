@@ -9,7 +9,7 @@ permalink: /keyboards/
 အောက်ပါအတိုင်း Keyboard လက်ကွက် စာရိုက်စနစ် အမျိုးမျိုးရှိသည့်အနက် `မိမိနှစ်သက်ရာ ၁-ခုကို` သုံးစွဲနိုင်ပါသည်။
 
 
-| KeyMagic ယူရန် <img src="/images/keymagic-images.png">   | Keyman ယူရန် <img src="/images/keyman-image.png">    | Windows 10  <img src="/images/win10.png"> |
+| KeyMagic <img src="/images/keymagic-images.png">   | Keyman <img src="/images/keyman-image.png">    | Windows 10  <img src="/images/win10.png"> |
 | :-------------------- |:-----------------| :-----------|
 | [Windows 7, 8, 10 အတွက် ][1] | [Keyman 13.0 (PyidaungsuMM-2.5)][5] | [ဖွင့်သုံးနည်း ကြည့်ရန်][8] |
 | [Mac OS X အတွက် ][2]  | [Keyman 13.0 for MacOS][6] |  |
