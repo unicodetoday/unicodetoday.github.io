@@ -23,10 +23,10 @@ permalink: /guides/
 ## အွန်လိုင်း ကွန်ဗာတာ 
 
 &#10070; [Zawgyi1 <=> Unicode Converter][12]{:target="_blank"}<br>
-&#10070; [Myanmar fonts to Unicode][13]{:target="_blank"} `ThanLwinSoft`<br>
-&#10070; [MrDBA Blog Converter][15]{:target="_blank"} `Mr DBA`<br>
-&#10070; [Burmese Font Converter][16]{:target="_blank"} `Burglish`<br>
-&#10070; [Rabbit Converter][17]{:target="_blank"} `saturngod`
+&#10070; [Myanmar fonts to Unicode][13]{:target="_blank"}<br>
+&#10070; [MrDBA Blog Converter][15]{:target="_blank"}<br>
+&#10070; [Burmese Font Converter][16]{:target="_blank"}<br>
+&#10070; [Rabbit Converter][17]{:target="_blank"}
 
 [12]: http://www.mcf.org.mm/myanmar-unicode-converter/
 [13]: https://thanlwinsoft.github.io/www.thanlwinsoft.org/ThanLwinSoft/MyanmarUnicode/Conversion/myanmarConverter.html
