@@ -49,7 +49,7 @@ header_pages:
 categories: [guides]
 
 # Google Analytics
- google_analytics: UA-11524327-67
+google_analytics: UA-11524327-67
 
 #permalink: /:categories/:title/
 # Exclude from processing.
