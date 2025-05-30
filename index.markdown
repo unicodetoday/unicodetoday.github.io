@@ -133,6 +133,7 @@ layout: page
   <li>ဖောင့် menu ရှိ ဖောင့်ဖိုင်သီးသန့် အောက်တွင် OS နှင့် Office version ရွေးချယ်ကာ ဖောင့်ကို download ရယူ၍ထည့်သွင်းပါ</li>
   <li>ကီးဘုတ် menu ရှိ Keyman သို့မဟုတ် Keymagic ကိုရယူ၍ ထည့်သွင်းပေးပါ</li>
   <li><a href="{% post_url 2019-10-05-apple-keyman-install %}">Keyman ထည့်နည်း ဆက်လက်ကြည့်ရှုရန်</a></li>
+ ccvvvvv
 </ol>
 </details>
 
